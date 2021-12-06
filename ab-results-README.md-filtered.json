@@ -1,0 +1,275 @@
+[
+  {
+    "loc": 11,
+    "status": 301,
+    "link": "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
+    "redirect": "https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
+    "error": ""
+  },
+  {
+    "loc": 11,
+    "status": 301,
+    "link": "https://travis-ci.org/viatsko/awesome-vscode.svg",
+    "redirect": "https://api.travis-ci.org/viatsko/awesome-vscode.svg",
+    "error": ""
+  },
+  {
+    "loc": 224,
+    "status": 301,
+    "link": "https://code.visualstudio.com/insiders",
+    "redirect": "https://code.visualstudio.com/insiders/",
+    "error": ""
+  },
+  {
+    "loc": 332,
+    "status": 404,
+    "link": "https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 336,
+    "status": 302,
+    "link": "https://www.microsoft.com",
+    "redirect": "https://www.microsoft.com/cs-cz/",
+    "error": ""
+  },
+  {
+    "loc": 336,
+    "status": 301,
+    "link": "https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/",
+    "redirect": "https://devblogs.microsoft.com/cppblog/cc-extension-for-visual-studio-code/",
+    "error": ""
+  },
+  {
+    "loc": 399,
+    "status": 302,
+    "link": "https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif",
+    "redirect": "https://raw.githubusercontent.com/tgjones/HlslTools/master/src/ShaderTools.VSCode/art/statement-completion.gif",
+    "error": ""
+  },
+  {
+    "loc": 417,
+    "status": 302,
+    "link": "https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif",
+    "redirect": "https://raw.githubusercontent.com/ipatalas/vscode-postfix-ts/master/images/demo-multiline.gif",
+    "error": ""
+  },
+  {
+    "loc": 687,
+    "status": 301,
+    "link": "https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle",
+    "redirect": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle",
+    "error": ""
+  },
+  {
+    "loc": 691,
+    "status": 404,
+    "link": "https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 812,
+    "status": 404,
+    "link": "https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 948,
+    "status": 404,
+    "link": "https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 1209,
+    "status": 301,
+    "link": "http://citylights.xyz",
+    "redirect": "https://citylights.xyz/",
+    "error": ""
+  },
+  {
+    "loc": 1408,
+    "status": 301,
+    "link": "https://code.visualstudio.com/docs/extensions/yocode",
+    "redirect": "https://code.visualstudio.com/api/get-started/your-first-extension",
+    "error": ""
+  },
+  {
+    "loc": 9,
+    "link": "https://code.visualstudio.com/",
+    "error": "Dupe"
+  },
+  {
+    "loc": 9,
+    "link": "https://github.com/sindresorhus/awesome",
+    "error": "Dupe"
+  },
+  {
+    "loc": 258,
+    "link": "https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray",
+    "error": "Dupe"
+  },
+  {
+    "loc": 336,
+    "link": "https://www.microsoft.com",
+    "error": "Dupe"
+  },
+  {
+    "loc": 354,
+    "link": "https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer",
+    "error": "Dupe"
+  },
+  {
+    "loc": 427,
+    "link": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin",
+    "error": "Dupe"
+  },
+  {
+    "loc": 441,
+    "link": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1141,
+    "link": "https://vscodethemes.com/e/Endormi.2077-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1149,
+    "link": "https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1157,
+    "link": "https://vscodethemes.com/e/wart.ariake-dark",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1165,
+    "link": "https://vscodethemes.com/e/akamud.vscode-theme-onedark",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1173,
+    "link": "https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1181,
+    "link": "https://vscodethemes.com/e/teabyii.ayu",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1189,
+    "link": "https://vscodethemes.com/e/eckertalex.borealis",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1197,
+    "link": "https://vscodethemes.com/e/ultradracula.captain-sweetheart",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1213,
+    "link": "https://vscodethemes.com/e/wesbos.theme-cobalt2",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1221,
+    "link": "https://vscodethemes.com/e/dracula-theme.theme-dracula",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1229,
+    "link": "https://vscodethemes.com/e/bogdanlazar.edge",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1237,
+    "link": "https://vscodethemes.com/e/fisheva.eva-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1245,
+    "link": "https://vscodethemes.com/e/nopjmp.fairyfloss",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1253,
+    "link": "https://vscodethemes.com/e/thomaspink.theme-github",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1261,
+    "link": "https://vscodethemes.com/e/DimitarNonov.jellybeans-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1269,
+    "link": "https://vscodethemes.com/e/whizkydee.material-palenight-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1277,
+    "link": "https://vscodethemes.com/e/Equinusocio.vsc-material-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1285,
+    "link": "https://vscodethemes.com/e/u29dc.mno",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1293,
+    "link": "https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1301,
+    "link": "https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1317,
+    "link": "https://vscodethemes.com/e/will-stone.plastic",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1325,
+    "link": "https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1333,
+    "link": "https://vscodethemes.com/e/daylerees.rainglow",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1341,
+    "link": "https://vscodethemes.com/e/mischah.relaxed-theme",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1349,
+    "link": "https://vscodethemes.com/e/ahmadawais.shades-of-purple",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1357,
+    "link": "https://vscodethemes.com/e/smlombardi.slime",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1408,
+    "link": "https://code.visualstudio.com/docs/extensions/yocode",
+    "error": "Dupe"
+  },
+  {
+    "loc": 1425,
+    "link": "https://twitter.com/MrAhmadAwais/",
+    "error": "Dupe"
+  }
+]
